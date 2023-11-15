@@ -1,0 +1,5 @@
+- Make env ready for your development on Nodejs LTS18
+- 1.1 Write a function which takes array of numbers and and a function which will be called on each item and return the newly created array,in two ways : Declaritive and Imperative
+- 1.2 Promises , write the orders which logs show us 
+- 1.3 how to transfer this "[4,[[5],[6,[7],8],9,10]]" to [4,5,6,7,8,9,10] 
+- 1.4 Manipulate the object to always return "404" with Proxy
